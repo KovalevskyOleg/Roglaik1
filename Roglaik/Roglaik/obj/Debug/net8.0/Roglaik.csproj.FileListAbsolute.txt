@@ -1,0 +1,14 @@
+C:\Users\palit\source\repos\Roglaik\Roglaik\bin\Debug\net8.0\Roglaik.exe
+C:\Users\palit\source\repos\Roglaik\Roglaik\bin\Debug\net8.0\Roglaik.deps.json
+C:\Users\palit\source\repos\Roglaik\Roglaik\bin\Debug\net8.0\Roglaik.runtimeconfig.json
+C:\Users\palit\source\repos\Roglaik\Roglaik\bin\Debug\net8.0\Roglaik.dll
+C:\Users\palit\source\repos\Roglaik\Roglaik\bin\Debug\net8.0\Roglaik.pdb
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.AssemblyInfoInputs.cache
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.AssemblyInfo.cs
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.csproj.CoreCompileInputs.cache
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.dll
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\refint\Roglaik.dll
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.pdb
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\Roglaik.genruntimeconfig.cache
+C:\Users\palit\source\repos\Roglaik\Roglaik\obj\Debug\net8.0\ref\Roglaik.dll
